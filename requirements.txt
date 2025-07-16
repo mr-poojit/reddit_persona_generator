@@ -2,3 +2,5 @@ google-generativeai
 praw
 python-dotenv
 tqdm
+streamlit
+streamlit-lottie
